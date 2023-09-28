@@ -1,0 +1,10 @@
+C:\Users\home\source\repos\baitapnet1\bai5\obj\Debug\bai5.csproj.AssemblyReference.cache
+C:\Users\home\source\repos\baitapnet1\bai5\obj\Debug\bai5.Form1.resources
+C:\Users\home\source\repos\baitapnet1\bai5\obj\Debug\bai5.Properties.Resources.resources
+C:\Users\home\source\repos\baitapnet1\bai5\obj\Debug\bai5.csproj.GenerateResource.cache
+C:\Users\home\source\repos\baitapnet1\bai5\obj\Debug\bai5.csproj.CoreCompileInputs.cache
+C:\Users\home\source\repos\baitapnet1\bai5\bin\Debug\bai5.exe.config
+C:\Users\home\source\repos\baitapnet1\bai5\bin\Debug\bai5.exe
+C:\Users\home\source\repos\baitapnet1\bai5\bin\Debug\bai5.pdb
+C:\Users\home\source\repos\baitapnet1\bai5\obj\Debug\bai5.exe
+C:\Users\home\source\repos\baitapnet1\bai5\obj\Debug\bai5.pdb
